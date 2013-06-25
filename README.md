@@ -26,7 +26,7 @@ The next thing we need to do is to actually create a single rock and place it on
 
 Simply calling the class as if it were a function creates a new rock for us to use. Here, we assign it to the variable 'rock'.
 
-As a quirk of this particular game enginer we've written, we have to register this rock with the game board so that it displays. We do that by calling GAME\_BOARD.register(). After that, the rock can then be placed on the board with the GAME\_BOARD.set\_el() method. For the purposes of this exercise, when we place objects on our game board, we put the code in the initialize() function. The full code for that looks like this. 
+As a quirk of this particular game engine we've written, we have to register this rock with the game board so that it displays. We do that by calling GAME\_BOARD.register(). After that, the rock can then be placed on the board with the GAME\_BOARD.set\_el() method. For the purposes of this exercise, when we place objects on our game board, we put the code in the initialize() function. The full code for that looks like this. 
 
 **DO NOT COPY/PASTE PLZ**
 
