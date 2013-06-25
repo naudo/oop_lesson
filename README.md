@@ -9,6 +9,12 @@ Here's a small sample of what the output looks like when you're done.
 
 We'll be editing **only** the code in game.py. After every step, run and experiment with the program to see how each addition changes it.
 
+Running the game
+----------------------------------------
+While you'll be editing the game.py file, to play your game, you'll need to run the engine.py file.
+
+    python engine.py
+
 Step 1: Let's add something to the game.
 ----------------------------------------
 The first thing we're going to do is add boulders to our game. First, we need to _define_ what a boulder is. We create a class definition as follows:
